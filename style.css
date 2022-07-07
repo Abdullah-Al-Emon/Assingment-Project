@@ -1,0 +1,193 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* start .top-donate section  */
+.top-donate {
+    height: 669px;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.containe {
+    padding: 135px 210px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.containe P {
+    margin: 30px 70px;
+    text-align: center;
+    width: 645px;
+}
+
+.containe h1 {
+    margin-bottom: 0px;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.button {
+    background-color: #ff5959;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 12px 16px;
+    border-radius: 12px;
+}
+
+/* end .top-donate section  */
+/* start .donate-today section   */
+.donate-containe {
+    padding: 0px 180px;
+    text-align: center;
+}
+
+.heading2 {
+    color: #121212;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.donate-para {
+    padding: 0px 80px;
+    color: #707070;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.amount {
+    display: flex;
+    justify-content: space-around;
+}
+
+.taka {
+    font-size: 30px;
+    color: #707070;
+    padding: 35px 20px;
+    width: 135px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    margin: 0px 30px;
+}
+
+.amount .redies {
+    color: #ff5959;
+    background-color: #ffeeee;
+    border: 3px solid #f9a7a7;
+}
+
+.donate-today input {
+    padding: 15px 12px;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid #dadada;
+    width: 765px;
+    display: block;
+    margin: 35px 20px;
+}
+
+/* end .donate-today section  */
+/* start .donate-plan section  */
+.card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-card {
+    text-align: justify;
+    padding: 40px 40px;
+    margin: 10px;
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.1);
+}
+
+.second-card {
+    text-align: justify;
+    padding: 40px 40px;
+    margin: 10px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.third-card {
+    text-align: justify;
+    padding: 40px 40px;
+    margin: 10px;
+    background: #FFF4D6;
+    border-radius: 5px;
+}
+
+/* end .donate-plan section  */
+/* start.volunteers section  */
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.volunteers-card {
+    padding: 5px 20px;
+    border-radius: 20px;
+    margin: 5px 20px;
+    background-color: #fff5e1;
+}
+
+.cards img {
+    padding: 20px;
+    border-radius: 25px;
+    width: 150px;
+    height: 150px;
+}
+
+.cards h3 {
+    margin: 0px;
+}
+
+/* end .volunteers section  */
+/* start .my-update section  */
+.box {
+    background-color: #fff5dae3;
+    padding: 72px 20px;
+    margin: 10px 80px;
+    margin-bottom: 65px;
+}
+
+.box input {
+    border: none;
+    background-color: #d9d9d9;
+    padding: 15px 40px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.box button {
+    margin: -5px;
+    border: none;
+    background-color: #ff5959;
+    color: #ffffff;
+    padding: 15px 40px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+/* end .my-update section  */
+/* start footer section  */
+.footer {
+    text-align: center;
+    padding: 5px 200px;
+    background-color: black;
+}
+
+.footer h3 {
+    margin-bottom: 0px;
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
+    font-size: 36px;
+}
+
+.footer p {
+    padding-bottom: 20px;
+    color: #707070;
+    font-size: 18px;
+}
+
+/* end footer section  */
